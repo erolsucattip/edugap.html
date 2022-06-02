@@ -9,4 +9,4 @@ Aplicación de algoritmos géneticos para la reconstrucción de imágenes.
 Proyecto realizado en Python a través de jupyter notebooks disponibles de forma local y en la nube a través de google colaboratory. 
 
 Página: [Algorítmos Genéticos El Codigo De Darwin](https://erolsucattip.github.io/edugap.html/)  
-Twitter con las imagenes y videos de la implementación: [EDUGARP_USB](https://twitter.com/edugap_usb)
+Twitter con las imagenes y videos de la implementación: [EDUGAP_USB](https://twitter.com/edugap_usb)
